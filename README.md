@@ -20,3 +20,4 @@
 - hexo --draft 显示 source/_drafts 文件夹中的草稿文章。
 - hexo new draft "testDraft" 创建一篇新草稿。
 - hexo new layout "testlayout"创建一篇新文章。
+- git clone git@github.com:dongyuanxin/theme-bmw.git themes/bmw
